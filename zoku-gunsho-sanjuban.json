@@ -1,11 +1,16 @@
 {
- "work": "三十番歌合",
+ "work": "三十番歌合（続群書類従本）",
  "work_id": "zoku-gunsho-sanjuban",
  "repo": "kumoi-no-fumigura/zoku-gunsho-sanjuban",
  "yomi": "さんじゅうばんうたあわせ",
  "category": "歌合",
  "kind": "prose",
- "description": null,
+ "description": {
+  "kind": "歌合（30番・3題）",
+  "era": "文明13年（1481）11月",
+  "author": "判者 衆議判（判詞 飛鳥井雅親）",
+  "desc": "文明13年11月15日の歌合。題は寒夜月・竹雪深・忍逢恋の3題で、甘露寺親長・三条西実隆・冷泉為富・冷泉為広らが詠んだ。衆議判で、のちに入道大納言栄雅（飛鳥井雅親）が判詞を書いた。"
+ },
  "editions": [
   {
    "pid": "nao-733164",
@@ -1126,7 +1131,7 @@
   "poems": 60,
   "yaku": 0,
   "editions": 1,
-  "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:01:47+09:00"
+  "updated": "2026-10-30",
+  "updated_at": "2026-10-30T09:05:14+09:00"
  }
 }
