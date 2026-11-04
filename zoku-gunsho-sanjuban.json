@@ -1395,6 +1395,10 @@
    "dai": "勝"
   }
  ],
+ "translation": {
+  "count": 22,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-sanjuban",
   "work": "文明十三年三十番歌合",
